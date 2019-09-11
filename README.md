@@ -1,1 +1,0 @@
-# Cluster-vCPUs-to-Cores-Allocation-Ratio
